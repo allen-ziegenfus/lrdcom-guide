@@ -14,14 +14,36 @@ Providing insights into maintaining and updating Liferay.com.
 8. [Landing Pages] (#landing-pages)
 
 ## General
+
 ## Templates
+
 ## Structures
+
 ## Setting Up Local
+- Get portal to link up with your SQL database by changing `portal-setup-wizard.properties` in '/bundles' with this line: 
+
+    ```
+    jdbc.default.url=jdbc:mysql://localhost/[your-database-name-here]?useUnicode=true&characterEncoding=UTF-8&useFastDateParsing=false
+    ```
+
+- Database dumps can be found here: 
+https://files.liferay.com/private/lrdcom/ (log in with your LR user/pass)
+- OSB community theme needs these to be deployed first in order to make it work:
+    - hubspot-portlet
+    - osb-www-hook
+    - portal-compat-hook
+    - marketplace-portlet
+
 ## Theme - osb-community-theme
+
 ## Portlets
+
 ### osb-www-asset-publisher-portlet
+
 ### osb-www-marketing-events-portlet
+
 ## Microsites
+
 ## Landing Pages
 
 
