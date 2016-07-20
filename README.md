@@ -10,6 +10,8 @@ Providing insights into maintaining and updating Liferay.com.
 6. [Portlets](#portlets)
     - [osb-www-asset-publisher-portlet](#osb-www-asset-publisher-portlet)
     - [osb-www-marketing-events-portlet](#osb-www-marketing-events-portlet)
+7. [Microsites](#microsites)
+8. [Landing Pages] (#landing-pages)
 
 ## General
 ## Templates
@@ -19,5 +21,8 @@ Providing insights into maintaining and updating Liferay.com.
 ## Portlets
 ### osb-www-asset-publisher-portlet
 ### osb-www-marketing-events-portlet
+## Microsites
+## Landing Pages
+
 
 
