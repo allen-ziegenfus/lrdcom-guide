@@ -2,9 +2,10 @@
 Providing insights into maintaining and updating Liferay.com.
 
 ## Table of Contents
-1. [General](#general)
+1. [Environment](#general)
     - [Redirects](#redirects)
     - [SAML](#saml)
+    - [Disaster Relief](#disaster-relief)
 2. [Setting Up Local](#setting-up-local)
 3. [Theme (osb-community-theme)](#theme)
 4. [Portlets](#portlets)
@@ -13,9 +14,11 @@ Providing insights into maintaining and updating Liferay.com.
 5. [Microsites](#microsites)
 6. [Landing Pages] (#landing-pages)
 
-## General
+## Environment
 ### Redirects
 ### SAML
+### Disaster Relief
+What to do when Liferay.com goes down:
 
 ## Setting Up Local
 - Get portal to link up with your SQL database by changing `portal-setup-wizard.properties` in '/bundles' with this line: 
